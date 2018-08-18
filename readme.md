@@ -1,4 +1,4 @@
-Programming environment for statistical computing and graphics
+Statköl is a programming environment for statistical computing and graphics
 
 ![](DklBaseGraphics.jpg)
 
