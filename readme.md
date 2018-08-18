@@ -1,4 +1,4 @@
-*Base Graphics for Diököl* is a implementation of R Base Graphics library using the Diököl environment.
+Programming environment for statistical computing and graphics
 
 ![](DklBaseGraphics.jpg)
 
